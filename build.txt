@@ -1,0 +1,3 @@
+displayName = Factorized
+author = eldritch
+version = 0.1

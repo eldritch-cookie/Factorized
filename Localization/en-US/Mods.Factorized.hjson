@@ -1,0 +1,6 @@
+Items: {
+	HerbBag: {
+		Tooltip: ""
+		DisplayName: Herb Bag
+	}
+}
